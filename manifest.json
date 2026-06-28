@@ -1,0 +1,13 @@
+{
+  "name": "Pitu's PC - Soluciones Informáticas",
+  "short_name": "Pitu's PC",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#f4f9ff",
+  "theme_color": "#0077c8",
+  "description": "Tienda de informática, cámaras de seguridad y accesorios para celulares.",
+  "icons": [
+    {"src":"img/logo-pituspc.jpg","sizes":"192x192","type":"image/jpeg"},
+    {"src":"img/logo-pituspc.jpg","sizes":"512x512","type":"image/jpeg"}
+  ]
+}
